@@ -1,0 +1,21 @@
+{
+  "name": "dg-theme",
+  "displayName": "DG THEME",
+  "description": "🏴‍☠️ Tema oscuro - Dairon Granada",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dairon Granada",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dairon Granada-color-theme.json"
+      }
+    ]
+  }
+}
