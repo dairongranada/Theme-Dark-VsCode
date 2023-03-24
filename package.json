@@ -17,5 +17,17 @@
         "path": "./themes/Dairon Granada-color-theme.json"
       }
     ]
-  }
+  },
+    "icon": "icons/iconDG.png",
+    "author":{
+      "name": "Dairon Granada",
+      "email": "dairongranada21@gmail.com",
+      "url": "https://github.com/dairongranada"
+    },
+    "repository":{
+      "url": "https://github.com/dairongranada/Theme-Dark-VsCode",
+      "type": "github"
+    },
+    "publisher": "Dairon Theme-Dark"
 }
+
