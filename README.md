@@ -5,6 +5,6 @@
 
 <div align="center">
   <a align="center" href="https://VSCode.pro/?utm_source=sop">
-    <img align="center" src="resources/tema.mp4" />
+    <img align="center" src="resources/gif.gif" />
   </a>
 </div>
