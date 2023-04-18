@@ -21,7 +21,7 @@
 
 |      USAGE       |                                HEX CODES                                 |
 | ---------------- | ------------------------------------------------------------------------ |
-| Background Dark  | ![#1E1E3F](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1E1E3F.png) `#0b0e14`       |
+| Background Dark  | ![#1E1E3F](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/1E1E3F.png) `#1E1E3F`       |
 | Foreground       | ![#A599E9](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/A599E9.png) `#A599E9`       |
 | Hover Background | ![#4D21FC](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/4D21FC.png) `#4D21FC`       |
 | Contrast         | ![#FAD000](https://raw.githubusercontent.com/ahmadawais/shades-of-purple-vscode/master/images/FAD000.png) `#FAD000`       |
