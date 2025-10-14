@@ -1,6 +1,6 @@
 <div align="center">
 
-# DH-THEME 🌙 (Super Dark) <code>BETA</code>
+# DH-THEME 🌙 (Super Dark) <code>PRO</code>
 
 ![Preview](resources/gif.gif)
 
