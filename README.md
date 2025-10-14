@@ -65,6 +65,6 @@
 
 
 <p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png" /></p>
-<p align="center">Copyright &copy; 2025-present <a href="https://github.com/catppuccin" target="_blank">Dairon Granada.</a>
-<p align="center"><a href="https://github.com/catppuccin/catppuccin/blob/main/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a></p>
+<p align="center">Copyright &copy; 2025-present <a href="https://www.instagram.com/dairongranadaa" target="_blank">Dairon Granada.</a>
+
 
