@@ -2,7 +2,7 @@
   "name": "dg-theme",
   "displayName": "DG THEME",
   "description": "🏴‍☠️ Tema oscuro - (theme Dark)",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.76.0"
   },
