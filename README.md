@@ -60,9 +60,9 @@
 | Peek View Selection Background| `#2C313A` |
 
 ---
-
+>---------
 > These colors accurately reflect the DH-THEME theme so users see exactly how it looks in VSCode.
->
+>---------
 
 <p align="center"><img src="resources/dog.png" /></p>
 <p align="center">Copyright &copy; 2025-present <a href="https://www.instagram.com/dairongranadaa" target="_blank">Dairon Granada.</a>
