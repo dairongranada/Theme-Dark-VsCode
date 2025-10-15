@@ -1,8 +1,8 @@
 {
-  "name": "dg-theme",
-  "displayName": "DG THEME",
+  "name": "Theme Dark - DG",
+  "displayName": "Theme Dark - DG",
   "description": "🏴‍☠️ Tema oscuro - (theme Dark)",
-  "version": "1.2.0",
+  "version": "1.2.5",
   "engines": {
     "vscode": "^1.76.0"
   },
