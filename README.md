@@ -59,7 +59,7 @@
 | Peek View Background          | `#21252B` |
 | Peek View Selection Background| `#2C313A` |
 
----
+
 >---------
 > These colors accurately reflect the DH-THEME theme so users see exactly how it looks in VSCode.
 >---------
