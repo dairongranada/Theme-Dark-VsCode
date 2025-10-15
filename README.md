@@ -11,21 +11,21 @@
 
 ---
 
-## Instalación
+## Installation
 
-1. Abre Visual Studio Code.
-2. Ve a la pestaña de **Extensiones**.
-3. Busca `DH-THEME` y haz click en **Instalar**.
-4. Actívalo desde `Preferences > Color Theme`.
+1. Open Visual Studio Code.
+2. Go to the **Extensions** tab.
+3. Search for `DH-THEME` and click **Install**.
+4. Activate it from `Preferences > Color Theme`.
 
 ---
 
-## Características
+## Features
 
-- Tema oscuro moderno y profesional
-- Compatible con VSCode 1.80+
-- Colores suaves para trabajar de noche
-- Resalta sintaxis y elementos de UI de manera clara y elegante
+- Modern and professional dark theme
+- Compatible with VSCode 1.80+
+- Soft colors for working at night
+- Clear and elegant syntax and UI element highlighting.
 
 ---
 
@@ -61,8 +61,8 @@
 
 ---
 
-> Estos colores reflejan fielmente el tema DH-THEME para que los usuarios vean exactamente cómo luce en VSCode.
-
+> These colors accurately reflect the DH-THEME theme so users see exactly how it looks in VSCode.
+>
 
 <p align="center"><img src="resources/dog.png" /></p>
 <p align="center">Copyright &copy; 2025-present <a href="https://www.instagram.com/dairongranadaa" target="_blank">Dairon Granada.</a>
