@@ -64,7 +64,7 @@
 > Estos colores reflejan fielmente el tema DH-THEME para que los usuarios vean exactamente cómo luce en VSCode.
 
 
-<p align="center"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.png" /></p>
+<p align="center"><img src="resources/dog.png" /></p>
 <p align="center">Copyright &copy; 2025-present <a href="https://www.instagram.com/dairongranadaa" target="_blank">Dairon Granada.</a>
 
 
